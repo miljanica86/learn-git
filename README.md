@@ -1,8 +1,9 @@
 Precondition: 
--Create word/txt or any other document where you are going to collect all commands that you are going to use in these exercies below.
-That document will help us to track your work and solutions.
+-Create word or any other document where you are going to collect all commands that you are going to type in these exercies below.
+That document will help us to track your work and solutions, so don't forger to store those.
 -Download and install git (https://git-scm.com/downloads). There is also built-in GUI tool that comes with this instalation, but I suggest downloading
 and instaling https://atom.io/ which is simplier and easier to work with (for example use it to resolve merge conflicts in exercise 4)
+During all these exercises you may have some issues to do what is requested or to get some errors. There are some tricky situations added on purpose, to force you to investigate on internet how to resolve and to understand git.
 
 1. 
 -Create public repository on your github account
@@ -11,7 +12,7 @@ and instaling https://atom.io/ which is simplier and easier to work with (for ex
 -Connect your local repository to public repository that you have created in first step
 -Push all changes to master branch
 2. 
--Switch remote repository to point to https://github.com/kristijan989/learn-git
+-Switch remote repository to point to https://github.com/kristijan989/learn-git and pull changes
 -Create your own branch (name it to be unique branch-yourfirstname-yourlastname)
 -Add two files in the root project directory: yourNameFile1.txt and yourNameFile1 - Copy.txt and add both to staging
 -Commit only file yourNameFile1.txt and push changes to your remote branch
